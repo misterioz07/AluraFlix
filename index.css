@@ -1,0 +1,20 @@
+body {
+
+    background-color: red;
+    
+}
+
+#susan {
+
+    color: blue;
+
+} 
+
+#bobi{
+
+    color: black;
+    position: relative;
+    left: 500px;
+    bottom: -500px;
+
+}
